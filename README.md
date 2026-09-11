@@ -21,6 +21,10 @@
 
 </div>
 
+<p align="center">
+  <img src="pictures/v1.2.png" alt="Kryptika" width="800">
+</p>
+
 ---
 
 ## What is Kryptika?
